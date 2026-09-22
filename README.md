@@ -1,18 +1,27 @@
-# Yoshi (YoshKoz)
+# Yoshi / YoshKoz
 
-Arnhem, NL. I build small, focused tools — automation, TUIs, browser extensions, agentic systems — and I'd rather ship something that does one thing honestly than something that half-does ten.
+I build tools for Windows, Linux, hardware, automation, and whatever else I happen to be experimenting with.
 
-## Picked projects
+I'm especially interested in systems tooling, reverse engineering, Rust, PowerShell, and making old or awkward hardware useful again.
 
-| | |
-|---|---|
-| **[twelve-angry-agents](https://github.com/YoshKoz/twelve-angry-agents)** | 12 LLM juror agents deliberate a murder case to verdict, rendered as a visual novel with per-juror TTS narration. |
-| **[shelf](https://github.com/YoshKoz/shelf)** | Local-first TUI bookmark/note manager — plain markdown files as the source of truth, SQLite as a disposable index. |
-| **[poncho](https://github.com/YoshKoz/poncho)** | GBC-style game engine in Rust/SDL2, built as a clean-room reimplementation of real hardware behavior. |
-| **[otp-autofill](https://github.com/YoshKoz/otp-autofill)** | Firefox extension that autofills email OTP codes from local mail, with a genuinely considered threat model. |
-| **[peaceful-feed-filter](https://github.com/YoshKoz/peaceful-feed-filter)** | Browser extension that dims grief/sad content across major social feeds, English and Dutch. |
-| **[mtgRulesAgent](https://github.com/YoshKoz/mtgRulesAgent)** | Local RAG MCP server answering Magic: The Gathering rules questions, grounded against the real rules text. |
-| **[poker-trainer-racket](https://github.com/YoshKoz/poker-trainer-racket)** | A poker trainer written in Racket, with real hand-history import and data-backed drills. |
-| **[elevenLabsFirefoxExtension](https://github.com/YoshKoz/elevenLabsFirefoxExtension)** | Firefox extension that reads selected text aloud via the ElevenLabs TTS API. |
+## Projects
 
-More on my profile below — most of what I build is personal tooling that never goes public, but this is the part that's finished enough to share.
+**[EZ-Flash II USB Flasher](https://github.com/YoshKoz/ez-flash-ii-usb-flasher)**
+Rust CLI and GUI for the EZ-Writer II / EZ-Flash II GBA cartridge flasher. Supports ROM dumping, save backup/restore, firmware loading and WinUSB/libusb.
+
+**[LDACast](https://github.com/YoshKoz/LDACast)**
+Experimental user-mode LDAC audio source for Windows using a dedicated Bluetooth adapter, BTstack and libldac.
+
+**[updateEverything](https://github.com/YoshKoz/updateEverything)**
+PowerShell updater for Windows package managers, developer toolchains and system components.
+
+**[shelf](https://github.com/YoshKoz/shelf)**
+Local-first Rust TUI for bookmarks and notes. Markdown files are the source of truth; SQLite provides the search index.
+
+**[Harmonia](https://github.com/YoshKoz/Harmonia)**
+Desktop music player built with Rust and GPUI, combining a local music library with Spotify.
+
+**[win-audit](https://github.com/YoshKoz/win-audit)**
+PowerShell tool for inspecting Windows security configuration and producing readable audit reports.
+
+Most of these started because I wanted something for my own machine and couldn't find quite what I wanted.
