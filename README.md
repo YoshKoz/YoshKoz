@@ -24,4 +24,17 @@ Desktop music player built with Rust and GPUI, combining a local music library w
 **[win-audit](https://github.com/YoshKoz/win-audit)**
 PowerShell tool for inspecting Windows security configuration and producing readable audit reports.
 
+## Smaller things
+
+- [twelve-angry-agents](https://github.com/YoshKoz/twelve-angry-agents) — 12 LLM jurors deliberate a murder case, visual-novel UI with TTS
+- [funda-scorer](https://github.com/YoshKoz/funda-scorer) — Chrome extension that scores and ranks Funda listings
+- [kloot-in-firefox](https://github.com/YoshKoz/kloot-in-firefox) — Firefox automation bridge for Claude Code / MCP clients
+- [mtgRulesAgent](https://github.com/YoshKoz/mtgRulesAgent) — local RAG MCP server for Magic: The Gathering rules
+- [otp-autofill](https://github.com/YoshKoz/otp-autofill) — Firefox extension that fills email OTP codes from Thunderbird
+- [peaceful-feed-filter](https://github.com/YoshKoz/peaceful-feed-filter) — browser extension that dims sad content in social feeds
+- [workout-cli](https://github.com/YoshKoz/workout-cli) — terminal workout coach driven by an LLM
+- [poker-trainer-racket](https://github.com/YoshKoz/poker-trainer-racket) — Racket GUI poker trainer with hand-history import
+- [catacomb-gwbasic](https://github.com/YoshKoz/catacomb-gwbasic) — raycast dungeon crawler in one GW-BASIC file
+- [steam-similar-games](https://github.com/YoshKoz/steam-similar-games) — find Steam games by shared tags
+
 Most of these started because I wanted something for my own machine and couldn't find quite what I wanted.
