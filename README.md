@@ -1,5 +1,7 @@
 # Yoshi / YoshKoz
 
+> Op zoek naar een junior rol in systeembeheer / werkplekbeheer, regio Arnhem-Nijmegen. Looking for a junior sysadmin / workplace-support role in the Arnhem-Nijmegen area (NL).
+
 I build tools for Windows, Linux, hardware, automation, and whatever else I happen to be experimenting with.
 
 I'm especially interested in systems tooling, reverse engineering, Rust, PowerShell, and making old or awkward hardware useful again.
