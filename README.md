@@ -1,12 +1,18 @@
 # Yoshi / YoshKoz
 
-> Op zoek naar een junior rol in systeembeheer / werkplekbeheer, regio Arnhem-Nijmegen. Looking for a junior sysadmin / workplace-support role in the Arnhem-Nijmegen area (NL).
+> Op zoek naar een rol in systeembeheer / werkplekbeheer of als (junior) developer, regio Arnhem-Nijmegen of remote. Looking for a sysadmin / workplace-support or (junior) developer role in the Arnhem-Nijmegen area (NL) or remote.
 
 I build tools for Windows, Linux, hardware, automation, and whatever else I happen to be experimenting with.
 
 I'm especially interested in systems tooling, reverse engineering, Rust, PowerShell, and making old or awkward hardware useful again.
 
 ## Projects
+
+**[KyappuTone](https://github.com/YoshKoz/KyappuTone)**
+Local-first music player for Windows 11 (C#, WinUI 3, .NET 10): library, synced lyrics, playlists, MusicBrainz tagging, internet radio, Discord presence. GPLv3, builds in CI for x64 and ARM64.
+
+**[vacature-watcher](https://github.com/YoshKoz/vacature-watcher)**
+Python job-vacancy watcher for Dutch job boards: multi-source fetch, SQLite dedupe, LLM match scoring, HTML digest and notifications. Tested and linted in CI.
 
 **[EZ-Flash II USB Flasher](https://github.com/YoshKoz/ez-flash-ii-usb-flasher)**
 Rust CLI and GUI for the EZ-Writer II / EZ-Flash II GBA cartridge flasher. Supports ROM dumping, save backup/restore, firmware loading and WinUSB/libusb.
